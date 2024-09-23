@@ -153,7 +153,6 @@ This project includes several placeholders in the code that need to be customize
    ]
    ```
 
-
 4. **File Naming (`f"{topic.replace(' ', '_')}_research.txt"`)**:
    - **Location**: `read_research_file()` function and `save_case_study_to_file()` function in `content.py`
    - **Description**: The topic name is used to generate filenames for the research and case study files. This ensures the files are properly named based on the case study topic.
